@@ -34,6 +34,8 @@ This Unity project demonstrates a basic 3D character controller, UI interaction,
 
 ## Demo
 
+https://github.com/user-attachments/assets/b1f9323a-6d8d-4574-b7de-de32006f928b
+
 ## 📄 License
 
 This project is open-source and licensed under the [MIT License](./LICENSE).
